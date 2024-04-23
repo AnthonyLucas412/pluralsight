@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="31a1d66c-4614-4c0f-914e-8f6aa125e81d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../AddressBuilder/src/main/java/com/pluralsight/AddressBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FullNameGenerator/src/main/java/com/pluralsight/FullNameApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FullnameParser/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FullnameParser/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FullnameParser/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FullnameParser/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FullnameParser/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FullnameParser/src/main/java/com/pluralsight/FullnameParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pluralsight/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SandwichShop/src/main/java/com/pluralsight/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringPractice/src/main/java/com/pluralsight/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringPractice/src/main/java/com/pluralsight/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheaterReseravtions/src/main/java/com/pluralsight/TheaterReservations.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2fEP3hBlnVkUk8GNcRE8emO1qVk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/student.BOSPF3AKMXH.000/OneDrive - Year Up- BOS/Desktop/pluralsight/java-development/workbook-1/Main/src/main/java/com/pluralsight/Main.java"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="31a1d66c-4614-4c0f-914e-8f6aa125e81d" name="Changes" comment="" />
+      <created>1713363067197</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713363067197</updated>
+    </task>
+    <servers />
+  </component>
+</project>
