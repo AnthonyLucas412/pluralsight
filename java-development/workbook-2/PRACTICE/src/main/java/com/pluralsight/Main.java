@@ -1,7 +1,11 @@
 package com.pluralsight;
-
-/*public class Main {
+import java.time.LocalDate;
+public class Main {
     public static void main(String[] args) {
+        LocalDate date = LocalDate.now();
+        System.out.println(date.getDayOfMonth());
+    }
+}
         /*for (int j = 0; j < 20; j++) {
             System.out.println("For loop: " + j);
 
@@ -20,7 +24,7 @@ package com.pluralsight;
         /*int[] myArray = new int[10];
         myArray[0] = 5;*/
 
-        public class Student {
+       /* public class Student {
             String name;
             int age;
 
@@ -37,8 +41,8 @@ package com.pluralsight;
 
             public static void main(String[] args) {
                 Student student = new Student("John", 20);
-                student.display();
-            }
-        }
+                student.display();*/
+
+
 
 
